@@ -1,0 +1,13 @@
+C:\Users\asus\source\repos\LibrairieStock\LibrairieStock\bin\Debug\netcoreapp2.2\LibrairieStock.deps.json
+C:\Users\asus\source\repos\LibrairieStock\LibrairieStock\bin\Debug\netcoreapp2.2\LibrairieStock.runtimeconfig.json
+C:\Users\asus\source\repos\LibrairieStock\LibrairieStock\bin\Debug\netcoreapp2.2\LibrairieStock.runtimeconfig.dev.json
+C:\Users\asus\source\repos\LibrairieStock\LibrairieStock\bin\Debug\netcoreapp2.2\LibrairieStock.dll
+C:\Users\asus\source\repos\LibrairieStock\LibrairieStock\bin\Debug\netcoreapp2.2\LibrairieStock.pdb
+C:\Users\asus\source\repos\LibrairieStock\LibrairieStock\obj\Debug\netcoreapp2.2\LibrairieStock.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\LibrairieStock\LibrairieStock\obj\Debug\netcoreapp2.2\LibrairieStock.RazorAssemblyInfo.cache
+C:\Users\asus\source\repos\LibrairieStock\LibrairieStock\obj\Debug\netcoreapp2.2\LibrairieStock.RazorAssemblyInfo.cs
+C:\Users\asus\source\repos\LibrairieStock\LibrairieStock\obj\Debug\netcoreapp2.2\LibrairieStock.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\LibrairieStock\LibrairieStock\obj\Debug\netcoreapp2.2\LibrairieStock.AssemblyInfo.cs
+C:\Users\asus\source\repos\LibrairieStock\LibrairieStock\obj\Debug\netcoreapp2.2\LibrairieStock.RazorTargetAssemblyInfo.cache
+C:\Users\asus\source\repos\LibrairieStock\LibrairieStock\obj\Debug\netcoreapp2.2\LibrairieStock.dll
+C:\Users\asus\source\repos\LibrairieStock\LibrairieStock\obj\Debug\netcoreapp2.2\LibrairieStock.pdb
