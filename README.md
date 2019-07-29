@@ -1,0 +1,2 @@
+# LibrairieStock
+ .net core
